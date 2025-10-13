@@ -8,6 +8,8 @@ theme = 'hugo-book'
   # You can also set value to "*" to render all sections to menu
   BookSection = '*'
 
+  BookSearch = false
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
