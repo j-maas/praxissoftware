@@ -9,7 +9,7 @@ Bei Hausärzten ist die Planbarkeit erschwert. Sie müssen spontan auf die akute
 
 ## Dedizierte Planung von Untersuchungen
 
-In zwei Interviews wurde angedeutet, dass Untersuchungen wie Blutabnahmen, EKGs oder Ultraschalls vormittags geplant werden. Bei einer Praxis werden somit die Vorsorge-Untersuchungen zeitlich strikt von den Sprechstunden getrennt (aktue Untersuchungen werden aber natürlich auch während einer Sprechstunde gemacht).
+In zwei Interviews wurde angedeutet, dass Untersuchungen wie Blutabnahmen, EKGs oder Ultraschalls vormittags geplant werden. Bei einer Praxis werden somit die Vorsorge-Untersuchungen zeitlich strikt von den Sprechstunden getrennt (akute Untersuchungen werden aber natürlich auch während einer Sprechstunde gemacht).
 
 Dies erlaubt laut einer befragten Person eine höhere Effizienz. Patienten, denen Blut abgenommen wird, stellen sich in einer Schlange vor dem Labor an. Wenn Patienten zusätzliche Untersuchungen wie Ultraschall oder EKG erhalten, dann werden sie, sobald der entsprechende Raum frei ist, aus der Schlange geholt. Danach stellen sie sich wieder in der Schlange zur Blutabnahme an.
 
