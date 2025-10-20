@@ -17,7 +17,7 @@ Dabei besetzen die Ärzte die Stationen je nach Bedarf. Z. B. macht einer zuerst
 
 In der Planung werden nur eine bestimmte Anzahl an Patienten mit Zusatzuntersuchungen wie EKG oder Ultraschall pro Vormittag eingeplant, damit genug Zeit für diese zur Verfügung steht. Blutabnahmen gehen in der Regel innerhalb weniger Minuten.
 
-In einer Praxis wird für die Unterscheidung zwischen Patienten mit nur Blutabnahme und solchen mit zusätzlichen Untersuchungen über einen Kalender vorgenommen: Vormittags werden die Patienten mit Zusatzleistungen eingetragen, nachmittags die mit nur Blutabnahme. Alle Patienten kommen vormittags im Zeitraum der Vorsorgeuntersuchungen, die Zeit des Termins hilft also nur bei der Planung der Zusatzuntersuchungen. Bei Ankunft werden die Patienten mit Zusatzuntersuchungen dann von den MFA in entsprechende Aufgabenlisten eingetragen, damit die Ärzte sie abarbeiten können.
+In einer Praxis wird für die Unterscheidung zwischen Patienten mit nur Blutabnahme und solchen mit zusätzlichen Untersuchungen über einen Kalender vorgenommen: Vormittags werden die Patienten mit Zusatzleistungen eingetragen, nachmittags die mit nur Blutabnahme. Alle Patienten kommen vormittags im Zeitraum der Vorsorgeuntersuchungen, die Zeit des Termins hilft also nur bei der Planung der Zusatzuntersuchungen. Bei Ankunft werden die Patienten mit Zusatzuntersuchungen dann von den medizinischen Fachangestellten in entsprechende Aufgabenlisten eingetragen, damit die Ärzte sie abarbeiten können.
 
 ## Auslagerung von Aufgaben an MFA
 
