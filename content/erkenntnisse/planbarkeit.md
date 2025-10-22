@@ -31,9 +31,11 @@ In zwei Interviews wurde erwähnt, dass die MFA die EKGs vorbereiten, also die E
 
 Manchen Patienten fällt es schwer, dem Impfplan zu folgen und die nötigen Dokumente mitzunehmen. So habe ich in einem Interview von einem Patienten erfahren, der Reiseimpfungen nehmen möchte, jedoch ständig seinen Impfausweis und den Zettel, welche Impfung wann gemacht werden soll, vergisst.
 
-Er nimmt also stets den gesamten Kühlkoffer mit allen Impfungen mit. Der Arzt schaut dann, welche Impfungen noch übrig sind, und ermittelt anhand der einzuhaltenden Abstände, welche Impfung als nächstes gegeben werden sollte.
+Da Reisimpfungen meist nicht von der Krankenkasse übernommen werden, musste er die Impfungen selbst kaufen und bei sich zuhause gekühlt lagern. Er hat einen Kühlkoffer, mit dem er die Impfungen transportieren kann.
 
-Z. B. wenn heute eine Tollwutimpfung gemacht wird, dann steht diese in 7 und 21 Tagen erneut an. Dann machen sie heute noch eine Hepatitis-Impfung mit, deren zweiter Teil dann nach einem Monat mit der dritten Tollwutimpfung zusammen gemacht wird. Im nächsten Termin in einer Woche, machen sie mit der zweiten Tollwutimpfung zusammen dann eine mehreren Hirnhautentzündungsimpfungen.
+Der Patient nimmt, weil er den Impfausweis vergisst, stets den gesamten Kühlkoffer mit allen Impfungen mit in die Arztpraxis. Der Arzt schaut dann, welche Impfungen noch übrig sind, und ermittelt anhand der einzuhaltenden Abstände, welche Impfung als nächstes gegeben werden sollte.
+
+Z. B. wenn heute eine Tollwutimpfung gemacht wird, dann steht diese erneut in 7 und 21 Tagen an. Dann machen sie heute noch eine Hepatitis-Impfung mit, deren zweiter Teil dann nach einem Monat mit der dritten Tollwutimpfung zusammen gemacht wird. Im nächsten Termin in einer Woche, machen sie mit der zweiten Tollwutimpfung zusammen dann eine von mehreren Hirnhautentzündungsimpfungen.
 
 Dann packt der Patient alles ein, macht den nächsten Termin aus und kommt dann wieder mit der gesamten Kühlbox in die Praxis. "Irgendwann ist die Box ja leer."
 
